@@ -41,5 +41,5 @@ nltk.download('wordnet')
 nltk.download('omw-1.4') 
 ```
 3. Now comment the above lines and run the code till Question 7. Question 8 is a GridSearch which will take very long time, hence it is suggested to run this part at the last
-4. Now run the rest of the questions (Question 9 to Question 11) and get the respective results. 
+4. Now run the rest of the questions (Question 9 to Question 13) and get the respective results. 
 5. Once all the results are obtained run the cells for Question 8. It would take > 6 hours. 
