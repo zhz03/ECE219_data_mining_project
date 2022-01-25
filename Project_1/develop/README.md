@@ -14,6 +14,8 @@ Library requirements:
 - umap: `pip install umap-learn`
 - seaborn: `pip install seaborn`
 
+- imblearn: `pip install imblearn`
+
 ### GLoVE Embedding File Download
 - `mkdir glove`
 - `cd glove`
