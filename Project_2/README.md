@@ -1,10 +1,5 @@
 # README
-
-## Part 2
-
-### 2.1 Requirements
-
-To run the code for Part 2, you need to install the following libraries:
+## Requirements
 
 - Install PyTorch
 
@@ -27,6 +22,15 @@ pip install umap-learn
 ```shell
 pip install hdbscan
 ```
+
+## Part 1
+
+### Loading Pickled Metrics Data
+The metrics data for each of the clustering techniques and dimensionality reduction techniques have been saved as pickle files in the root directory. These can be loaded by the running the cells in marked as "Load Pickled Data"
+
+
+## Part 2
+
 
 ### 2.2 Run code
 
