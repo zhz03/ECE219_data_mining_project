@@ -30,7 +30,7 @@ The metrics data for each of the clustering techniques and dimensionality reduct
 
 
 ### Plots
-The plots are in the Jupyter notebook, for Q 10 to Q 17 , along with the written answers as well They follow the hyperparameter search cells.
+The plots are in the Jupyter notebook, along with the written answers as well. They follow the hyperparameter search cells.
 
 ## Part 2
 
