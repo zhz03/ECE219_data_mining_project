@@ -29,6 +29,9 @@ pip install hdbscan
 The metrics data for each of the clustering techniques and dimensionality reduction techniques have been saved as pickle files in the root directory. These can be loaded by the running the cells in marked as "Load Pickled Data"
 
 
+### Plots
+The plots are in the Jupyter notebook, for Q 10 to Q 17 , along with the written answers as well They follow the hyperparameter search cells.
+
 ## Part 2
 
 
