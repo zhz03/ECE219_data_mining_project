@@ -35,7 +35,7 @@ The plots are in the Jupyter notebook, along with the written answers as well. T
 ## Part 2
 
 
-### 2.2 Run code
+### Run code
 
 To run the code, you need to check if your system has cude GPU available:
 
