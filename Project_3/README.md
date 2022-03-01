@@ -18,4 +18,4 @@ Library requirements:
 3. Question 6, question 8 and question 10 take a bit longer time to run. 
 
 ### Project Description
-In this project we try to build recommender systems using the provided movie lens data. We try neighbourhood-based collaborative filtering, model-based collaborative filtering and naive-based collaborative filtering and compare their performances.  A more detailed report can be found in Project3_405350265_605432345_105730045.pdf report file.  
+In this project we try to build recommender systems using the provided movie lens data. We try neighbourhood-based collaborative filtering, model-based collaborative filtering and naive-based collaborative filtering and compare their performances.  A more detailed report can be found in `Project3_405350265_605432345_105730045.pdf` report file.  
