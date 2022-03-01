@@ -10,6 +10,8 @@ Library requirements:
 - sklearn: `pip install sklearn`
 - strings: `pip install strings`
 
+#### Add the Synthetic Movie Lens folder at the root
+
 ### Run the Code 
 1. Open the python notebook `Project3_405350265_605432345_105730045.ipynb`
 2. The questions are solved sequentially. Find all the questions mentioned and the solutions below them. 
