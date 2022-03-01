@@ -1,4 +1,4 @@
-# ECE 219 Project 2 
+# ECE 219 Project 3
 
 ### Requirements for running the program
 Library requirements:
