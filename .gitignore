@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Project_4/ECE219_tweet_data/
+Project_4/pp_gas_emission/
+Project_4/diamonds.csv
 # C extensions
 *.so
 
