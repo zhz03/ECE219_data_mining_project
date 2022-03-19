@@ -21,5 +21,11 @@
   ```shell
   pip install dtreeviz
   ```
-
-  
+- lightgbm
+  ```
+  pip install lightgbm
+  ```
+- catboost
+```
+pip install catboost
+```
